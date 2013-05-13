@@ -97,6 +97,7 @@ GEM
     modernizr-rails (2.6.2.1)
     multi_json (1.7.3)
     nokogiri (1.5.9)
+    pg (0.15.1)
     polyglot (0.3.3)
     pry (0.9.12.2)
       coderay (~> 1.0.5)
@@ -193,6 +194,7 @@ DEPENDENCIES
   guard-spork (= 1.2.0)
   jquery-rails (= 2.0.2)
   modernizr-rails
+  pg
   rails (= 3.2.13)
   rspec-rails (= 2.11.0)
   sass-rails (~> 3.2.5)
